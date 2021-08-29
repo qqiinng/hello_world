@@ -1,2 +1,6 @@
-# hello_world
-Hello GitHub 
+#include <stdio.h>
+
+int main(void)
+{
+  printf("hello, world");
+}
